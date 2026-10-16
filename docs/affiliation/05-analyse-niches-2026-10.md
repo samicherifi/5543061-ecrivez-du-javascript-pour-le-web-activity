@@ -37,3 +37,32 @@ Concurrence YouTube observée le même jour avec yt-dlp, sur les 8 premiers rés
 - **Aspirateur robot** : fort volume, mais concurrence et dépendance à Amazon.
 
 Recommandation au 16/10/2026 : 1) logiciels pour indépendants et TPE (FR, puis EN) ; 2) impression 3D (FR facile, puis US). **Taux de commission encore à vérifier programme par programme.**
+
+## Complément : maison et café (base pour un futur e-commerce)
+
+Mêmes conditions : Ubersuggest, France, 16/10/2026.
+
+| Univers | Mot-clé | Volume/mois | SD | CPC | Saisonnalité |
+|---|---|---|---|---|---|
+| Café | café en grain | 14 800 | 39 | 1,21 € | pic en décembre |
+| Café | **meilleur café en grain** | **3 600** | **16** | 0,53 € | pic en novembre et décembre |
+| Café | machine à café grain (rappel) | 22 200 | 45 | 0,44 € | pic en novembre |
+| Café | machine expresso avec broyeur | 390 | 20 | 0,42 € | irrégulier |
+| Café | accessoire barista | 260 | 15 | 0,40 € | pic en décembre |
+| Café | meilleur moulin à café | 210 | 15 | 0,29 € | pic en novembre et décembre |
+| Maison | meilleur aspirateur balai | 9 900 | 34 | 0,70 € | pic en novembre |
+| Maison | meilleur matelas | 8 100 | 32 | **4,16 €** | pic en janvier |
+| Maison | meilleur purificateur d'air | 1 000 | **13** | 0,97 € | stable |
+| Maison | meilleur déshumidificateur | 1 000 | 19 | 0,67 € | pic d'octobre à novembre |
+| Maison | meilleur couteau de cuisine | 720 | **12** | 0,84 € | pic en décembre |
+| Maison | meilleur poêle à granulés | 590 | 23 | 0,66 € | pic en décembre |
+| Maison | meilleur robot cuiseur | 390 | 22 | 0,33 € | pic en novembre |
+| Maison | meilleure friteuse sans huile | 260 | 34 | 0,25 € | en baisse |
+| Maison | meilleure poêle anti adhésive | 20 | 35 | 0,33 € | négligeable |
+
+### Lecture
+
+- **Café** : la meilleure porte d'entrée. « meilleur café en grain » combine 3 600 recherches et une SD de 16. Le café est un **consommable racheté chaque mois**, ce qui en fait le pont naturel vers l'e-commerce (sélection de cafés, abonnement, marque blanche avec un torréfacteur). Les machines (22 200 recherches sur la requête principale) apportent les gros paniers en affiliation.
+- **Maison (air sain)** : le purificateur d'air (SD 13, stable toute l'année) et le déshumidificateur forment un cluster facile. Les filtres sont eux aussi un consommable récurrent, donc une autre piste e-commerce.
+- **Matelas** : le CPC le plus élevé de l'univers maison (4,16 €), mais la concurrence est forte et les marques en vente directe sont très présentes en SEO.
+- **Une « maison » trop générale dilue l'autorité thématique.** Mieux vaut un univers resserré (café et cuisine) qu'on élargit ensuite.
