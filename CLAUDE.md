@@ -11,6 +11,7 @@ Il sert aussi de **base de connaissances pour les projets d'affiliation** (SEO +
 | `docs/affiliation/02-seo-contenu.md` | Intention d'achat, templates de pages (avis, comparatif, top, alternatives), mises à jour Google 2024-2026, IA, netlinking et ses risques, lancement d'un site neuf, international, stack, GEO |
 | `docs/affiliation/03-youtube-video.md` | SEO YouTube, Shorts, chaînes automatisées, politique « contenu inauthentique », divulgation, multilingue, veille avec yt-dlp / vidIQ |
 | `docs/affiliation/04-tracking-automatisation.md` | Trackers, EPC/RPM par page, trafic payant, workflows et prompts Claude Code, plan « de zéro au premier revenu » |
+| `docs/affiliation/05-analyse-niches-2026-10.md` | Analyse de niches (Ubersuggest + YouTube) du 16/10/2026 et recommandation |
 
 Source d'inspiration initiale : article LinkedIn de Paul Vengeons (12/10/2026) sur l'épisode #146 du podcast MVP avec Franck Marc (Wisewand). Ses chiffres sont **déclaratifs** et les deux auteurs ont des liens commerciaux déclarés (ChatSEO, Wisewand).
 
