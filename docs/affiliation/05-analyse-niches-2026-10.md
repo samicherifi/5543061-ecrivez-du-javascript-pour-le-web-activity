@@ -33,7 +33,7 @@ Concurrence YouTube observée le même jour avec yt-dlp, sur les 8 premiers rés
 - **Logiciels pour indépendants et TPE** : des clics de très grande valeur (le CPC va de 5 à 28 € en France et atteint 137 $ aux US) et une difficulté faible en France. Le sous-créneau « facturation / CRM pour auto-entrepreneurs » est le plus facile à attaquer. Les volumes sont modestes, ce qui se compense par la commission récurrente et par l'anglais.
 - **Impression 3D** : « meilleure imprimante 3d » combine 1 900 recherches et une SD de 13 en France, c'est très attaquable. Le marché US est énorme. Le CPC est bas, ce qui laisse attendre une commission plus faible par clic.
 - **Vélo électrique** : « meilleur » à 2 900 avec une SD de 16, et un panier élevé. Saisonnier, et un vrai test coûte cher.
-- **Café** : peu de requêtes « meilleure… », la demande passe surtout par YouTube.
+- **Café** : peu de requêtes « meilleure machine… » (480), la demande machine passe surtout par YouTube. **Corrigé dans le complément ci-dessous** : « meilleur café en grain » (3 600, SD 16) change la donne.
 - **Aspirateur robot** : fort volume, mais concurrence et dépendance à Amazon.
 
 Recommandation au 16/10/2026 : 1) logiciels pour indépendants et TPE (FR, puis EN) ; 2) impression 3D (FR facile, puis US). **Taux de commission encore à vérifier programme par programme.**
